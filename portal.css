@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(214, 214, 255);
+}
+a {
+    background-color: lightblue;
+    color: #000;
+    text-decoration: none;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+
+}
+nav {
+    display: flex;
+}
